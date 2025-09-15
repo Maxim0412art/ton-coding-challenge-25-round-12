@@ -15,9 +15,8 @@ https://t.me/toneachat
 课件地址：https://ton-org.notion.site/TON-NFT-2-0-2655274bd2cf807291edda0280c42e59
 
 领奖信息收集：
-1. 你的 Telegram 用户名 = ？
-2. 你的主网 TON 钱包地址 = ？
-
+1. 你的 Telegram 用户名 = @beluyy
+2. 你的主网 TON 钱包地址 = UQCGvB-p2uQBRaiAZvdc1h40XSDv1LRAop5FCOft1RtgcAJP
 
 ## 任务：构思 NFT 版权方案
 ### 任务描述：
@@ -31,5 +30,7 @@ https://t.me/toneachat
 2. 你的方案有什么优势？
 3. 你的方案有什么取舍和不足？
 
-
+方案: 在许可证NFT元数据中编码地理限制（基于地区）。
+优势: 与现实世界授权实践一致；支持全球使用。
+权衡点: 跨境难以执行；增加元数据负担。
 
